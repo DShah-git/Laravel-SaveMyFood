@@ -11,8 +11,9 @@
 <h1 align="center">Save My Food</h1>
 
 <p align="center">
-<!--     <a href="#">
+<!-- <a href="#">
     <img src="hhttps://github.com/DShah-git/SaveMyFood/blob/main/public/images/save%20my%20food-logos_white.png"  width="150" height="150"> </a> -->
     <p>Save My food is built with laravel. </p>
+    <p>Food wastage is a major problem working against sustainability. Save my food helps people keep track of their meals and food wastage. It will even suggest you portion size for you with your previous data.  </p>
     
 </p>    
