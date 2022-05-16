@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<img src="hhttps://github.com/DShah-git/SaveMyFood/blob/main/public/images/save%20my%20food-logos_white.png" {width=150px height=150px}>
+<a href="https://travis-ci.org/laravel/framework">
+<img src="hhttps://github.com/DShah-git/SaveMyFood/blob/main/public/images/save%20my%20food-logos_white.png"></a>
 <h1 align="center">Save My Food</h1>
 
 <p align="center">
