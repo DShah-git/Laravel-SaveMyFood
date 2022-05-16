@@ -7,10 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<a href="https://travis-ci.org/laravel/framework">
-<img src="hhttps://github.com/DShah-git/SaveMyFood/blob/main/public/images/save%20my%20food-logos_white.png"></a>
+
 <h1 align="center">Save My Food</h1>
 
 <p align="center">
-    Save My food is built with laravel. 
+<!--     <a href="#">
+    <img src="hhttps://github.com/DShah-git/SaveMyFood/blob/main/public/images/save%20my%20food-logos_white.png"  width="150" height="150"> </a> -->
+    <p>Save My food is built with laravel. </p>
+    
 </p>    
